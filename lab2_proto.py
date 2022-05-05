@@ -1,5 +1,5 @@
 import numpy as np
-from tools2 import *
+from lab2_tools import *
 
 def concatTwoHMMs(hmm1, hmm2):
     """ Concatenates 2 HMM models
